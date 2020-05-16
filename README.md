@@ -1,2 +1,16 @@
 # HackerRankAnswers
-HackerRank answers
+HackerRank Problems/Answers
+
+1. Simple Array Sum
+2. FizzBuzz
+3. Compare the Triplets
+4. Strings: Making Anagrams
+5. Alternating Characters
+6. 2D Array - DS
+7. Sock Merchant
+8. Counting Valleys
+9. Jumping on the Clouds
+10. Fraudulent Activity Notifications
+11. 
+12. 
+13. 
