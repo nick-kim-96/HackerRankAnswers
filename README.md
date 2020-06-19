@@ -11,6 +11,6 @@ HackerRank Problems/Answers
 8. Counting Valleys
 9. Jumping on the Clouds
 10. Fraudulent Activity Notifications
-11. 
-12. 
+11. Height of Binary Tree
+12. Lowest Common Ancestor
 13. 
