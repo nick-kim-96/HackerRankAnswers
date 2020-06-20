@@ -13,4 +13,5 @@ HackerRank Problems/Answers
 10. Fraudulent Activity Notifications
 11. Height of Binary Tree
 12. Lowest Common Ancestor
-13. 
+13. Repeated Strings
+14. 
