@@ -11,17 +11,14 @@ public class Solution {
     // Complete the checkMagazine function below.
     static void checkMagazine(String[] magazine, String[] note) {
 
-        ArrayList<String> newArray = new ArrayList<String>();
-        Collections.addAll(newArray, magazine);
+        List<String> newArray = new ArrayList<String>(Arrays.asList(magazine));
+        Arrays.sort(note);
+        Collections.sort(newArray);
         boolean check = true;
-        for(int i = 0; i < note.length; i++)
-        {
-            if(newArray.contains(note[i]))
-            {
-                newArray.remove(note[i]);
-            }
-            else 
-            {
+        for (String element : note) {
+            if (newArray.contains(element)) {
+                newArray.remove(element);
+            } else {
                 check = false;
                 break;
             }
@@ -34,8 +31,6 @@ public class Solution {
         {
             System.out.println("No");
         }
-        
-
     }
 
     private static final Scanner scanner = new Scanner(System.in);
