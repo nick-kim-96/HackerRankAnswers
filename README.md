@@ -14,4 +14,6 @@ HackerRank Problems/Answers
 11. Height of Binary Tree
 12. Lowest Common Ancestor
 13. Repeated Strings
-14. 
+14. Two Strings
+15. Left Rotation
+16. HashTable Ransom Note
