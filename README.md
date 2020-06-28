@@ -18,3 +18,5 @@ HackerRank Problems/Answers
 15. Left Rotation
 16. HashTable Ransom Note
 17. Sorting: Bubble Sort
+18. New Keyboard
+19. XOR Problem
