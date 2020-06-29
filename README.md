@@ -20,3 +20,4 @@ HackerRank Problems/Answers
 17. Sorting: Bubble Sort
 18. New Keyboard
 19. XOR Problem
+20. Jewel Game
