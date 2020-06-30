@@ -21,3 +21,4 @@ HackerRank Problems/Answers
 18. New Keyboard
 19. XOR Problem
 20. Jewel Game
+21. Flipping Bits
