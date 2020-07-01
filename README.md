@@ -22,3 +22,4 @@ HackerRank Problems/Answers
 19. XOR Problem
 20. Jewel Game
 21. Flipping Bits
+22. Mark and Toys
