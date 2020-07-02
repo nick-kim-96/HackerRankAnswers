@@ -23,3 +23,4 @@ HackerRank Problems/Answers
 20. Jewel Game
 21. Flipping Bits
 22. Mark and Toys
+23. Linked List Insertion
