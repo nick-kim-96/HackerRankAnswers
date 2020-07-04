@@ -25,3 +25,4 @@ HackerRank Problems/Answers
 22. Mark and Toys
 23. Linked List Insertion
 24. Linked Lis Deletion
+25. Sherlock and Anagrams
