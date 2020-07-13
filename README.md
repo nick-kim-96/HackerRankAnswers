@@ -27,3 +27,4 @@ HackerRank Problems/Answers
 24. Linked Lis Deletion
 25. Sherlock and Anagrams
 26. Luck Balance
+27. Minimum Swaps 2
