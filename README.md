@@ -31,3 +31,4 @@ HackerRank Problems/Answers
 28. Minimum Absolute Difference
 29. Sorting: Comparator
 30. Balanced Brackets
+31. Cycle Detection
