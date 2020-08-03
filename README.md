@@ -35,3 +35,4 @@ HackerRank Problems/Answers
 32. Climbing Stairs
 33. Best Time to Buy and Sell Stock
 34. Maximum Subarray
+35. Count Primes
