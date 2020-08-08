@@ -36,3 +36,4 @@ HackerRank Problems/Answers
 33. Best Time to Buy and Sell Stock
 34. Maximum Subarray
 35. Count Primes
+36. Best Time to Buy and Sell Stock 2
