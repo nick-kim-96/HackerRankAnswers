@@ -37,3 +37,4 @@ HackerRank Problems/Answers
 34. Maximum Subarray
 35. Count Primes
 36. Best Time to Buy and Sell Stock 2
+37. Remove Duplicates from Sorted Array
