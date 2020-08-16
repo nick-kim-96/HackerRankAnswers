@@ -38,3 +38,4 @@ HackerRank Problems/Answers
 35. Count Primes
 36. Best Time to Buy and Sell Stock 2
 37. Remove Duplicates from Sorted Array
+38. Number of 1 bits
