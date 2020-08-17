@@ -1,5 +1,5 @@
-# HackerRankAnswers
-HackerRank Problems/Answers
+# HackerRankAnswers/LeetCodeAnswers
+HackerRank/LeetCode Problems/Answers
 
 1. Simple Array Sum
 2. FizzBuzz
