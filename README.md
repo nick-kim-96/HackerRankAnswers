@@ -32,3 +32,4 @@ HackerRank Problems/Answers
 29. Sorting: Comparator
 30. Balanced Brackets
 31. Cycle Detection
+32. Climbing Stairs
